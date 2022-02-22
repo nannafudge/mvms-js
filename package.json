@@ -1,0 +1,25 @@
+{
+  "name": "mvms-js",
+  "version": "0.0.1",
+  "description": "Javascript Library for the MultiVAC Messaging Service",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nannafudge/mvms-js.git"
+  },
+  "author": "nannafudge <void@null.com> (https://metavac.ac)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nannafudge/mvms-js/issues"
+  },
+  "homepage": "https://github.com/nannafudge/mvms-js#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
